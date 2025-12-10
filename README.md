@@ -52,7 +52,7 @@ A real-time, voice-to-voice conversational AI application that speaks exclusivel
     ```
 
 5.  **Open in Browser**
-    Navigate to `http://localhost:3000` to start the application.
+    Navigate to `http://localhost:3000` to start the applicationor or just visit `https://iknowu27735300.github.io/Kannada-Voice-Chatbot/`.
 
 ## 🎮 Usage
 
