@@ -1,7 +1,0 @@
-{
-  "name": "Natural Voice AI",
-  "description": "A conversational AI assistant that speaks naturally with emotional intelligence and memory.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
